@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bulma": "^0.8.0",
-    "react": "^16.11.0",
+    "react": "^17.0.2",
     "react-dom": "^16.11.0",
     "react-player": "^1.14.1",
     "react-scripts": "3.2.0"
